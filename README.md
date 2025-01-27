@@ -1,3 +1,4 @@
+![logo](https://github.com/Harshkumar0a/Harshkumar0a/blob/main/newGithub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">Founder of Tinted Tint | YouTube Creator | MCA Student | Aspiring Web Developer & AI Enthusiast</h3>
 <img align="right" alt="Coding" width="300"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJreXpuMm4wOWkwZm01NjlnMzY1MzlidjcwaXZzYjVmZzRtNTFoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
